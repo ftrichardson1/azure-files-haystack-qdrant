@@ -16,7 +16,7 @@ This sample implements a Retrieval-Augmented Generation (RAG) pipeline that inge
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Azure-Samples/azure-files-haystack-qdrant.git
+git clone https://github.com/ftrichardson1/azure-files-haystack-qdrant.git
 cd azure-files-haystack-qdrant
 ```
 
