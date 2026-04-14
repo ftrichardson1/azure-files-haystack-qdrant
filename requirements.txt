@@ -1,0 +1,8 @@
+haystack-ai
+qdrant-haystack
+pypdf
+python-docx
+azure-identity
+azure-storage-file-share
+python-dotenv
+requests
